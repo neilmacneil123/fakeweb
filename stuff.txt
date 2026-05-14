@@ -1,0 +1,4 @@
+I want to create an novelty web site.  My idea is that it is completely dynamically generated per session.   What I'm thinking is that upon accessing the website it will ask to click on various choices like "shopping" "guitars" "musical instruments" "TEchnology" "news" "celbrity news" etc.   Based upon these, it will make several searches to sites like google images, google shopping, google videos (and/or youtube) and wikipedia.  It then will take the content (scrape or otherwise) and use it to dynamically generate a website where the user can explore this content.  There also should be a "reset" button to perform these initial tasks again if desired.  Website must look crazy/insane.  [$skill-installer](C:\\Users\\macneine1\\.codex\\skills\\.system\\skill-installer\\SKILL.md) 
+
+https://console.apify.com/actors/3ox4R101TgZz67sLr/input - RAG web browser - search using this?
+
